@@ -10,7 +10,7 @@ Supported Features
 
 Installation
 
-git clone git@github.com:web
+git clone git@github.com:websitecheck
 
 Usage
 
